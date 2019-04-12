@@ -34,7 +34,7 @@ conda install scikit-learn
 
 ## Authors
 
-* **Rajaram Sivaramakrishnan** - [rthiruv ](https://github.ncsu.edu/rthiruv)
+* **Rajaram Sivaramakrishnan** - [raja1196](https://github.com/raja1196)
 
 
 ## License
