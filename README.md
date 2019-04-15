@@ -9,9 +9,8 @@ This project involves Hand-digit recognition using logistic Regression.
 Installation of numpy and Scikit-learn neccesary to run this code.
 
 ## Dataset
-- Download MNIST dataset from [here](http://yann.lecun.com/exdb/mnist/). Do not use sklearn built-in functions to load the dataset, as it uses different training and testing set as the website. During evaluation, we will assume the results corresponds to the testing set from the website.
+- Download MNIST dataset from [here](http://yann.lecun.com/exdb/mnist/). Do not use sklearn built-in functions to load the dataset, as it uses different training and testing set as the website. 
 - Use only the training images for training (You can split it into training set and validation set).
-- The test set will be used for evaluation.
 
 ## Installing
 
